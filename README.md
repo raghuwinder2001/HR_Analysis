@@ -112,10 +112,12 @@ The dataset was cleaned and prepared using Power Query and data modeling techniq
 ---
 
 ## DAX Measures
+Employee Count = COUNT(HR_Analytics[EmployeeNumber])\
+Attrition Count = CALCULATE(COUNT(HR_Analytics[EmployeeNumber]), HR_Analytics[Attrition] = "Yes")
+
 
 ## License
 
 This project is shared for educational and portfolio purposes.
 
-```DAX
-Employee Count = COUNT(HR_Analytics[EmployeeNumber])
+
