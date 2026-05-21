@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 <p align="center">
-  <img src="HR_Analysis Dashboard.png" alt="HR Analytics Dashboard" width="100%">
+  <img src="HR_Analysis Dashboard.jpeg" alt="HR Analytics Dashboard" width="100%">
 </p>
 
 <p align="center">
